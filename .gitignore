@@ -1,0 +1,27 @@
+# Fichiers compilés Java
+*.class
+*.jar
+*.war
+*.ear
+bin/
+target/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+
+# IDE - VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
